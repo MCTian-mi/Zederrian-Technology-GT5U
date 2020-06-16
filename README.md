@@ -1,4 +1,4 @@
-# # Zederrian Technology GT5U
+# Zederrian Technology GT5U
 
 Looking for a pack to cover vanilla textures? [Use CyanideX's Unity ](https://www.curseforge.com/minecraft/texture-packs/unity)
 
