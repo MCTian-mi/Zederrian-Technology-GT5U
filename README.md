@@ -38,5 +38,5 @@ This is a resource pack for Gregtech & IC2, that matches CyanideX's Unity heavil
 
 ## Why move this project on github?
 
-I hope that by moving this project on GitHub I hope that I and other people will try to update it and expand the texture support for other mods.
+I hope that by moving this project on GitHub I and other people will try to update it and expand the texture support for other mods.
 
