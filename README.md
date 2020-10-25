@@ -4,7 +4,7 @@
 
 # Description
 
-This is a resource pack for Gregtech5U created by [Zerrens](https://forum.industrial-craft.net/core/user/12229-zerrens/), that matches [CyanideX's Unity](https://www.curseforge.com/minecraft/texture-packs/unity ) heavily.
+This is a resource pack for Gregtech created by [Zerrens](https://forum.industrial-craft.net/core/user/12229-zerrens/), that matches [CyanideX's Unity](https://www.curseforge.com/minecraft/texture-packs/unity ) heavily.
 
 Most pics are created by [Zerrens](https://forum.industrial-craft.net/core/user/12229-zerrens/),additional textures created/redesigned by Tian_mi.
 
@@ -62,4 +62,4 @@ Pics from the IC2 forum:
 | railcraft            |     \      |
 | rftools              |     \      |
 | thermalfoundation    |     \      |
-| tectech              |  Planned   |
+| tectech              | Working on |
