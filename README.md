@@ -8,7 +8,7 @@ This is a resource pack for Gregtech created by [Zerrens](https://forum.industri
 
 Most pics are created by [Zerrens](https://forum.industrial-craft.net/core/user/12229-zerrens/),additional textures created/redesigned by Tian_mi.
 
-Recommend to use together with LisenokArtist’s [Crop texture pack](https://github.com/LisenokArtist/GT5_crop_texturepack).
+Recommend to use together with LisenokArtist’s [Crop texture pack](https://github.com/LisenokArtist/GT5_crop_texturepack) and a Unity backport of [IC2 texture pack](https://www.curseforge.com/minecraft/texture-packs/unity-ic2-1-7-10-backport).
 
 ## Images
 
