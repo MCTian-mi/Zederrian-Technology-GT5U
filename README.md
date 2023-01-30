@@ -6,14 +6,16 @@
 
 This is a resource pack for Gregtech created by [Zerrens](https://forum.industrial-craft.net/core/user/12229-zerrens/), that matches [CyanideX's Unity](https://www.curseforge.com/minecraft/texture-packs/unity ) heavily.
 
-Most pics are created by [Zerrens](https://forum.industrial-craft.net/core/user/12229-zerrens/),additional textures created/redesigned by Tian_mi.
+Most pics are created by [Zerrens](https://forum.industrial-craft.net/core/user/12229-zerrens/), additional textures created/redesigned by Tian_mi.
 
-Recommend to use together with LisenokArtist’s [Crop texture pack](https://github.com/LisenokArtist/GT5_crop_texturepack) and a Unity backport of [IC2 texture pack](https://www.curseforge.com/minecraft/texture-packs/unity-ic2-1-7-10-backport).
+Recommend to use together with LisenokArtist’s [Crop texture pack](https://github.com/LisenokArtist/GT5_crop_texturepack) and a Unity backport of [IC2 texture pack](https://www.curseforge.com/minecraft/texture-packs/unity-ic2-1-7-10-backport), and use Optifine for connected texture & some custom textures.
+
 
 ## Images
 
 Pics from the IC2 forum:
 
+*<font size=1>\*note that some textures in these pics are already changed and may not look the same in game\*</font>*
 <details>
   <summary>Spoiler</summary>
   <img src="https://ftp.bmp.ovh/imgs/2020/10/484e3ac8ebc0ca98.png" />
@@ -30,6 +32,12 @@ Pics from the IC2 forum:
   <img src="https://ftp.bmp.ovh/imgs/2020/10/d7ba3d02e64ecc1d.png" />
 </details>
 
+## How to use
+
+Click the button below to download the zip file for the latest version of the pack, then put it in your resourcepack folder.Try unzip the file and reload if it fails to load correctly.
+
+[![Download](https://img.shields.io/badge/download-latest-blue.svg)](https://github.com/MCTian-mi/Zederrian-Technology-GT5U/archive/refs/heads/master.zip)
+
 ## License
 
 [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
@@ -37,29 +45,3 @@ Pics from the IC2 forum:
 [forum.industrial-craft.net](https://forum.industrial-craft.net/thread/11192-16x-ic2-gt5u-6-ae2-more-zederrian-technology-1-4-0/?postID=177688&highlight=zederrian#post177688)
 
 [Screenshot of the license](https://i.imgur.com/3QeuL49.png)
-
-## Mods
-
-| Mod Name             |   Status   |
-| -------------------- | :--------: |
-| advancedsolarpanel   |     \      |
-| advgenerators        |     \      |
-| appliedenergistics2  |     \      |
-| artifice             |     \      |
-| bartworks            |  Planned   |
-| forestry             |     \      |
-| galacticraft         |     \      |
-| gcewing_sg           |     \      |
-| gravisuite           |     \      |
-| gregtech             | Working on |
-| gregtech-plusplus    | Working on |
-| ic2                  |     \      |
-| ihl                  |     \      |
-| immersiveengineering |     \      |
-| kekztech             |  Planned   |
-| powerconverters      |     \      |
-| pressure             |     \      |
-| railcraft            |     \      |
-| rftools              |     \      |
-| thermalfoundation    |     \      |
-| tectech              | Working on |
